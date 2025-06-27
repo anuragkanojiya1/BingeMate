@@ -125,7 +125,7 @@ fun MovieScreen(viewModel: BingeViewModel, navController: NavController) {
 
     LaunchedEffect(speechContext.speechInput.value) {
         if (speechContext.speechInput.value.isNotBlank()) {
-            agentQuery = speechContext.speechInput.value
+            query = speechContext.speechInput.value
             speechContext.speechInput.value = ""
         }
     }
