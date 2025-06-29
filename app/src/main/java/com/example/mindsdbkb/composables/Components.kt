@@ -24,10 +24,11 @@ fun MetadataSelector(
     onValueSelected: (String) -> Unit
 ) {
     val options = when (selectedFilter) {
-        "Genre" -> listOf("Action", "Drama", "Comedy", "Thriller", "Romance", "Horror", "Sci-Fi")
-        "Type" -> listOf("Movie", "Series", "Documentary", "Anime")
-        "Year" -> listOf("2023", "2022", "2021", "2010", "2000", "1990")
-        "Rating" -> listOf("9", "8", "7", "6")
+        "Genre" -> listOf("Action", "Drama", "Fantasy", "Adventure", "History",
+            "Horror", "Crime", "Sci-Fi", "Romance", "Thriller")
+        "Type" -> listOf("Movie", "Series")
+        "Year" -> listOf("2023", "2022", "2021", "2010", "2000", "1994")
+        "Rating" -> listOf("9", "8", "7")
         else -> emptyList()
     }
 
