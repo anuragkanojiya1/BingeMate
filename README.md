@@ -41,5 +41,38 @@ App's backend link is required to get movie/series data for Semantic/agent searc
 - MindsDB + Ollama for Semantic search & LLM agent
 - ChromaDB for KB data storage
 
+## 📲 Android Studio Setup
+
+### ✅ Prerequisites
+
+- Android Studio **Giraffe** (or newer)
+- Android SDK version **33+**
+- Kotlin 1.9+
+- JDK 17
+- Emulator.
+
+### 🔧 Setup Instructions
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/anuragkanojiya1/bingemate.git
+   cd bingemate
+   ```
+
+2. Open in Android Studio:
+- Launch Android Studio.
+- Select "Open an existing project".
+- Navigate to the cloned bingemate folder.
+
+3. Sync Gradle:
+- Let Android Studio download all dependencies.
+- Accept any SDK or build tool prompts.
+
+4. Run the App:
+- Use an emulator.
+- Click ▶️ "Run" to install and launch BingeMate.
+
+
 ---
 
