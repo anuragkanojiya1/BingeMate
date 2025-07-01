@@ -7,6 +7,11 @@ App's backend link is required to get movie/series data for Semantic/agent searc
 
 ---
 
+| Demo Video                                                                 | Blog Post                                                                 |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| [![YouTube](https://github.com/user-attachments/assets/6cf3059f-84e8-4800-bade-11bd46a5f2e5)](https://youtu.be/QCIXBK0dxEs?si=rYhLqLZQ6KfP0onP) | [![Blog](https://github.com/user-attachments/assets/f4a138fc-9692-4486-bae4-6bb666ee3f72)](https://dev.to/anuragkanojiya/semantic-search-for-movies-series-with-mindsdb-and-fastapi-g39) |
+
+
 ## 🚀 Features
 
 ### 🎤 Voice-Powered Search
