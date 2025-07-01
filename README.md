@@ -5,7 +5,7 @@
 It combines natural language queries with structured filters like genre, type, year, and IMDb rating to return personalized results from Mindsdb Knowledge base.
 App's backend link is required to get movie/series data for Semantic/agent search - [BingeMate-Backend](https://github.com/anuragkanojiya1/BingeMate-Backend)
 
----
+<br/>
 
 | Demo Video                                                                 | Blog Post                                                                 |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------|
