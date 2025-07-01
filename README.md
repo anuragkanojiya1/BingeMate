@@ -81,3 +81,7 @@ App's backend link is required to get movie/series data for Semantic/agent searc
 
 ---
 
+## 🧑‍💻 Author
+Anurag — Android app Developer | AI Enthusiast | Spring Boot
+
+• [Twitter](https://x.com/AnuKanojiya829) • [LinkedIn](https://linkedin.com/in/anurag-kanojiya-101312286) • [GitHub](https://github.com/anuragkanojiya1)
